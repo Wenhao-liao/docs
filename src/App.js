@@ -9,16 +9,16 @@ function App() {
         </header>
         <div class="content-warpper">
           <div>
-            <a href='https://wenhao-liao.github.io/holiday-docs/#/'>前端</a>
+            <a id="font-end" href='https://wenhao-liao.github.io/holiday-docs/#/'>前端</a>
           </div>
           <div>
-            <a href="https://wenhao-liao.github.io/interview-docs/#/">前端面试</a>
+            <a id="font-end-interview" href="https://wenhao-liao.github.io/interview-docs/#/">前端面试</a>
           </div>
           <div>
             <a id="HTTP">HTTP</a>
           </div>
           <div>
-            <a id="HTTP">数据结构和算法</a>
+            <a id="algorithm">数据结构和算法</a>
           </div>
           <div>
             <a id="beack-end">服务端</a>
