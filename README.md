@@ -1,1 +1,1 @@
-https://wenhao-liao.github.io/docs/#/
+https://wenhao-liao.github.io/docs/
